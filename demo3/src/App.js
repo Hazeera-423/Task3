@@ -1,9 +1,11 @@
-import Movie from "./Movie/Movie";
+
+// import Movie from "./Movie/Movie";
 
 function App() {
   return (
     <div className="App">
-      <Movie/>
+      {/* <Movie/> */}
+      
       
     </div>
   );
